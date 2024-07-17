@@ -1,5 +1,5 @@
 # Assembly
-trying to learn Assembly
+learning Assembly
 
 the idea is to translate the .c files to the Assembly .S file of same name
 
